@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+.idea
+
+.env
+.DS_STORE
